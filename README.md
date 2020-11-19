@@ -1,3 +1,3 @@
-# Weatherapi-python-integration requirements.
+# Weather-api python integration requirements.
  - python 3.6 or above.
  - python module:requests,json. 
